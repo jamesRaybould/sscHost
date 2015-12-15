@@ -1,0 +1,23 @@
+{
+  "name": "sschost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jamesRaybould@github.com/jamesRaybould/sscHost.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesRaybould/sscHost/issues"
+  },
+  "homepage": "https://github.com/jamesRaybould/sscHost#readme",
+  "dependencies": {
+    "components-client": "git+ssh://git@github.com/sky-uk/component-api-clients.git#javascript",
+    "express": "^4.13.3"
+  }
+}
