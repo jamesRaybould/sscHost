@@ -20,6 +20,7 @@
   "dependencies": {
     "components-client": "git+ssh://git@github.com/sky-uk/component-api-clients.git#javascript",
     "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
     "handlebars": "^4.0.5"
   }
 }
